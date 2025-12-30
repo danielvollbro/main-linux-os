@@ -33,6 +33,7 @@ modules:
         install:
           # --- Core Apps ---
           - org.mozilla.firefox
+          - com.google.Chrome
           - org.gnome.Loupe
 
           # --- Gaming Stack ---
